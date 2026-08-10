@@ -278,21 +278,22 @@ Individual links provide detailed performance information, including click activ
 
 ---
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
 Add screenshots of your application here.
 
 ### Landing Page
 
 ```text
-[Add Landing Page Screenshot]
+<!-- [Add Landing Page Screenshot] -->
+![Landing Page](./public/screenshots/landing-page.png)
 ```
 
 ### Dashboard
 
 ```text
 [Add Dashboard Screenshot]
-```
+``` -->
 
 ### Link Analytics
 
