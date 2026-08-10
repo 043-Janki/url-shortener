@@ -287,6 +287,11 @@ Add screenshots of your application here.
 ```text
 ![Landing Page](./public/screenshots/landing-page.png) 
 ```
+### Authorization Page
+
+```text
+![Authorization Page](./public/screenshots/Authorization Page.png) 
+```
 
 ### Dashboard
 
