@@ -286,7 +286,7 @@ Individual links provide detailed performance information, including click activ
 
 ### Authorization Page
 
-![Authorization Page](./public/screenshots/Authorization Page.png)
+![Authorization Page](./public/screenshots/Authorization-Page.png)
 
 ### Dashboard
 
