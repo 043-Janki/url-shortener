@@ -286,14 +286,14 @@ Add screenshots of your application here.
 
 ```text
 <!-- [Add Landing Page Screenshot] -->
-![Landing Page](./public/screenshots/landing-page.png)
+<!-- ![Landing Page](./public/screenshots/landing-page.png)
 ```
 
 ### Dashboard
 
 ```text
 [Add Dashboard Screenshot]
-``` -->
+``` --> -->
 
 ### Link Analytics
 
