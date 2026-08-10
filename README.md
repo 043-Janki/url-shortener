@@ -280,30 +280,21 @@ Individual links provide detailed performance information, including click activ
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
-
 ### Landing Page
 
-```text
-![Landing Page](./public/screenshots/landing-page.png) 
-```
+![Landing Page](./public/screenshots/landing-page.png)
+
 ### Authorization Page
 
-```text
-![Authorization Page](./public/screenshots/Authorization Page.png) 
-```
+![Authorization Page](./public/screenshots/Authorization Page.png)
 
 ### Dashboard
 
-```text
-![Dashboard](./public/screenshots/dashboard.png) 
-``` 
+![Dashboard](./public/screenshots/dashboard.png)
 
 ### Link Analytics
 
-```text
-![Landing Page](./public/screenshots/link-analytics.png) 
-``` 
+![Landing Page](./public/screenshots/link-analytics.png)
 
 ---
 
